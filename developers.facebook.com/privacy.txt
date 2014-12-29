@@ -1,0 +1,398 @@
+https://developers.facebook.com/policy/
+
+Facebook Platform Policy
+
+Other Languages
+1. Build a quality product
+
+    Build an app that is stable and easily navigable.
+
+    Ensure that your app’s content (including ads and user-generated content) meets our Community Standards.
+
+    Follow our Advertising Guidelines for your app name, icons, and description.
+
+    Keep your app’s description and categorization up-to-date.
+
+    Don’t confuse, deceive, defraud, mislead, spam or surprise anyone.
+
+    Keep your app’s negative feedback below our thresholds.
+
+    Follow any instructions we include in our technical documentation.
+
+2. Give people control
+
+    Obtain consent from people before publishing content on their behalf.
+
+    Use publishing permissions to help people share on Facebook, not to send people messages from your app.
+
+    Don't prefill captions, comments, messages, or the user message parameter of posts with content a person didn’t create, even if the person can edit or remove the content before sharing.
+
+    Provide a publicly available and easily accessible privacy policy that explains what data you are collecting and how you will use that data.
+
+    You may use Account Information in accordance with your privacy policy and other Facebook policies. All other data may only be used outside your app after you have obtained explicit user consent.
+
+    Include your privacy policy URL in the App Dashboard.
+
+    Link to your privacy policy in any app marketplace that allows you to.
+
+    Comply with your privacy policy.
+
+    Delete all of a person’s data you have received from us (including friend data) if that person asks you to, unless you are required to keep it by law, regulation, or separate agreement with us. You may keep aggregated data only if no information identifying a specific person could be inferred or created from it.
+
+    Obtain consent from people before using their data in any ad.
+
+    Obtain consent from people before you give us information that you independently collected from them.
+
+    If you are tracking a person's activity, provide an opt-out from that tracking.
+
+    Provide meaningful customer support for your app, and make it easy for people to contact you.
+
+    If people come to your app from the Facebook app on iOS, give them an option to go back to the Facebook app by using the Back to Facebook banner provided in our SDK.
+
+    If people come to your app from the Facebook app on Android, don’t prevent them from going back to Facebook when they press the system back button.
+
+3. Protect data
+
+    Protect the information you receive from us against unauthorized access or use.
+
+    Only show data obtained from a user access token on the devices associated with that token.
+
+    Only use friend data (including friends list) in the person’s experience in your app.
+
+    If you cache data you receive from us, use it to improve your app’s user experience and keep it up to date.
+
+    Don’t proxy, request or collect Facebook usernames or passwords.
+
+    Keep private your secret key and access tokens. You can share them with an agent acting to operate your app if they sign a confidentiality agreement.
+
+    If you use any partner services, make them sign a contract to protect any information you obtained from us, limit their use of that information, and keep it confidential.
+
+    Keep Facebook user IDs within your control. Contract with any providers who help you build or run your app to ensure that they keep the user IDs secure and confidential and comply with our policies. If you need an anonymous unique identifier to share with third parties, use our mechanism.
+
+    Don't sell, license, or purchase any data obtained from us or our services.
+
+    Don't transfer any data that you receive from us (including anonymous, aggregate, or derived data) to any ad network, data broker or other advertising or monetization-related service.
+
+    Don't put Facebook data in a search engine or directory, or include web search functionality on Facebook.
+
+    If you are acquired by or merge with a third party, you can continue to use our data only within your app.
+
+    If you stop using Platform, promptly delete all user data you have received from us (absent explicit consent from people). You can keep basic account information if you have presented your privacy policy within your app.
+
+    If you use friend data from Facebook to establish social connections in your app, only do so if each person in that connection has granted you access to that information.
+
+4. Encourage proper use
+
+    Add something unique to the community. Don’t replicate core functionality that Facebook already provides.
+
+    Respect the way Facebook looks and functions. Don't offer experiences that change it.
+
+    If you’re building an app with a personalized or social experience, enable people to easily share on Facebook content they've created.
+
+    Respect the limits we've placed on Facebook functionality.
+
+    Only incentivize a person to log into your app, enter a promotion on your app’s Page, or check-in at a place. Don’t incentivize other actions.
+
+    Encourage people to accurately tag and share content.
+
+    If your service integrates a person’s data into a physical product, only create a physical product for that person’s personal and non-commercial use.
+
+    Don’t build an app whose primary purpose is to redirect people off of Facebook.
+
+    If you want to use our logos or brand, follow the guidelines in the Facebook Brand Resource and Permissions Center. Ad networks and data brokers must get our written permission before using our Platform, logos, or trademarks.
+
+    Don't sell, transfer or sublicense our code, APIs, or tools to anyone.
+
+    Only use our SDKs to develop and distribute apps for use with the Facebook Platform. You may also distribute any code libraries or sample source code included in the SDKs for inclusion in such apps.
+
+    Don’t modify, translate, create derivative works of, or reverse engineer any SDK or its components.
+
+    Be honest about your relationship with Facebook when talking to the press or users. Comply with our Developer PR Guidelines and get approval from us before issuing any formal press release or blog post mentioning Facebook.
+
+    If you use the Like button on iOS or Android, don’t collect or use any information from it.
+
+5. Follow the law
+
+    You are responsible for restricting access to your content in accordance with all applicable laws and regulations, including geo-filtering or age-gating access where required.
+
+    Don’t provide or promote content that infringes upon the rights of any third party.
+
+    Ensure that you own or secure all rights necessary to display, distribute and deliver all content in your app.
+
+    Satisfy all licensing, reporting and payout obligations to third parties in connection with your app.
+
+    If your app contains content submitted or provided by third parties:
+
+    a. In the United States, you must take all steps required to fall within the applicable safe harbors of the Digital Millennium Copyright Act including designating an agent to receive notices of claimed infringement, instituting a repeat infringer termination policy and implementing a notice and takedown process.
+
+    b. In other countries, you must comply with local copyright laws and implement an appropriate notice and takedown process for when you receive a notice of claimed infringement.
+
+    Don’t knowingly share information with us that you have collected from children under the age of 13.
+
+    Web sites or services directed to children under 13: If you use Social Plugins or our JavaScript SDK for Facebook on sites and services that are directed to children under 13, you are responsible for complying with all applicable laws. For example, if your web site or service is directed to children in the United States, or knowingly collects personal information from children in the United States, you must comply with the U.S. Children’s Online Privacy Protection Act. You must also adhere to our usage notes.
+
+    Comply with all applicable laws and regulations in the jurisdiction where your app is available. Do not expose Facebook or people who use Facebook to harm or legal liability as determined by us in our sole discretion.
+
+    If applicable, comply with the Video Privacy Protection Act (VPPA) and obtain any opt-in consent necessary to share data on Facebook.
+
+    You agree to indemnify and hold us harmless from and against all damages, losses, and expenses of any kind (including reasonable legal fees and costs) related to any claim against us related to your service, actions, content or information.
+
+6. Things you should know
+
+    We can analyze your app, content, and data for any purpose, including commercial.
+
+    We can monitor or collect data related to your use of SDKs.
+
+    We will use information we receive from you or in connection with your Platform integration in accordance with our Data Use Policy.
+
+    You give us all rights necessary to enable your app to work with Facebook, including the right to incorporate information you provide to us into other parts of Facebook, and the right to attribute the source of information using your name or logos.
+
+    We may share your contact info with people who want to contact you.
+
+    We may use your name, logos, content, and information, including screenshots and video captures of your app, to demonstrate or feature your use of Facebook, worldwide and royalty-free.
+
+    You give us the right to link to or frame your app, and place content, including ads, around your app. If you use our social plugins, feed dialog or share button, you also give us permission to use and allow others to use such links and content on Facebook.
+
+    We can audit your app to ensure it is safe and does not violate our Terms. If requested, you must provide us with proof that your app complies with our terms.
+
+    We can create apps or products that offer features and services similar to your app.
+
+    We don’t guarantee that Platform will always be free.
+
+    If you exceed 5M MAU, 100M API calls per day, or 50M impressions per day, you may be subject to additional terms.
+
+    Facebook and its licensors reserve all right, title and interest, including all intellectual property and other proprietary rights, in and to all SDKs.
+
+    Any SDKs you receive from us are provided to you on an "as is" basis, without warranty of any kind.
+
+    We can issue a press release describing our relationship with you.
+
+    We may enforce against your app or web site if we conclude that your app violates our terms or is negatively impacting the Platform. We may or may not notify you in advance.
+
+    Enforcement is both automated and manual, and can include disabling your app, restricting you and your app’s access to platform functionality, requiring that you delete data, terminating our agreements with you or any other action that we deem appropriate.
+
+    We communicate with developers through Developer Alerts and email from the fb.com or facebookmail.com domain. Ensure that the email address associated with your Facebook account and the email address registered to the app are current and that you don’t filter out these messages.
+
+    We may change these terms at any time without prior notice. Please check them regularly. Your continued use of Platform constitutes acceptance of those changes.
+
+    If you use Social Plugins, Facebook SDKs, or operate a Platform app or website, you must follow our Statement of Rights and Responsibilities and these additional rules unless you have our written permission to do otherwise.
+
+7. Login
+
+    Verify that you have integrated Login correctly. Your app shouldn't crash or hang during the testing process.
+
+    Native iOS and Android apps that implement Facebook Login must use our official SDKs for login.
+
+    Use a clearly branded "Login with Facebook" button and follow the Facebook Brand Guidelines.
+
+    Request only the data and publishing permissions your app needs.
+
+    If a person declines a permission, you can prompt them again after they indicate an intent to grant you the permission.
+
+    Provide a "Log Out" option that functions properly and is easy to find.
+
+8. Ads
+
+    If you have ads in your app on Facebook, comply with our Advertising Guidelines.
+
+    Avoid excessive ads. Don’t let ads distract from your app’s functionality.
+
+    Don’t include ads in Page Tab apps.
+
+    If you use a third party ad provider to include ads in your app on Facebook, only use a provider from this list.
+
+    Don’t include third-party ads (including for other apps) in posts, notifications, or requests.
+
+    Don’t include or pair Platform Integrations with non-Facebook ads.
+
+    If you run a promotion, contest, competition, or sweepstake on Facebook, comply with our Promotions Policies.
+
+9. Games
+
+    Games on Facebook.com:
+
+    a. Don’t share the same app ID with a desktop web game off of Facebook.com.
+
+    b. Don’t use your Facebook.com game or email addresses you’ve obtained from us to promote or link to a desktop web game off of Facebook.
+
+    c. Use Facebook Payments as your only payment method for all in-game purchases.
+
+    d. Use Facebook Payments offers if you reward people for actions involving third parties.
+
+    Desktop web games off Facebook.com:
+
+    a. Only use Facebook Login, social plugins, and publishing channels. Don’t use connections such as friends lists.
+
+    b. During authentication, only request age, email, and publishing permissions.
+
+    Games on mobile:
+
+    a. Don’t share the same app ID with a desktop web game off of Facebook.com.
+
+    b. Don’t use your mobile game or email addresses you’ve obtained from us to promote or link to a web game off of Facebook.
+
+    If you want to promote online gambling, online real money games of skill, or online lotteries, first get our written permission.
+
+    If your game includes mandatory or optional in-app charges, explain this in your app’s description.
+
+10. Payments
+
+    If you use Facebook Payments, comply with the Facebook Developer Payments Terms.
+
+    Don’t use Facebook Payments to solicit, collect or transfer funds for charitable causes without our prior permission.
+
+    If you’re using iOS to run your app, use an iOS approved payment method.
+
+    If you accept payments on Facebook, only do so in your app.
+
+11. App Center
+
+    Apps eligible for the Facebook App Center must use Facebook Login or have a Facebook Canvas or Page Tab app.
+
+    App Detail and Description:
+
+    a. Ensure the app’s name and information are grammatically correct.
+
+    b. Ensure the app’s language matches the App Center locale.
+
+    c. Don't include URLs or use the Facebook brand.
+
+    d. Don’t include keyword lists, excessive punctuation, or non-standard symbols.
+
+    All Images:
+
+    a. Use high quality, relevant images that reflect the app experience.
+
+    b. Keep any image text concise. Don't obstruct images with text.
+
+    c. Don’t include ads, URLs or gimmicks such as Play buttons.
+
+    Icons:
+
+    a. Use a transparent or colored background. If your icon requires a white background, use a colored border.
+
+    b. If your logo has a drop shadow, use a colored background.
+
+    Banners:
+
+    a. Don’t include rounded edges or borders.
+
+    b. Don’t include third party logos.
+
+    Videos:
+
+    a. Display the app's name.
+
+    b. Clearly represent the purpose of the app and show accurate, relevant in-app experiences.
+
+    c. Keep your video high-quality and high-resolution.
+
+    d. Your video and its video cover image should be clear and recognizable. Don't include ads.
+
+12. Open Graph
+
+    Open Graph Custom Actions:
+
+    a. Don’t recreate actions that are already supported.
+
+    b. Write the action and object in a clear and simple way.
+
+    c. Make sure the story is grammatically correct.
+
+    d. Use English for your submission.
+
+    e. Don’t indicate a person’s consumption, browsing, discovering, or viewing of content.
+
+    f. Don’t indicate a person has installed, visited, or connected to your app.
+
+    Read and Watch Actions:
+
+    a. Publish actions only after a person has been on a page for more than 10 seconds.
+
+    b. Allow people to remove stories published to Facebook on the same page where the content is hosted.
+
+13. Social Plugins
+
+    Don’t include or pair Platform Integrations with non-Facebook advertisements.
+
+    Don’t sell or purchase placement of social plugins or sharer.php.
+
+    Don’t participate in any “like” or “share” exchange programs.
+
+    Don’t obscure or cover elements of social plugins.
+
+14. Ads API
+
+    Basic and Standard Ads API access may be downgraded to Development access after 30 days of non-use.
+
+    Don't use the Ads API if you're an ad network or data broker.
+
+    Don't promote content, services, or activities contrary to our competitive position, interests, or advertising philosophy.
+
+    Don't provide Partner Category targeting options that differ from those offered by Facebook.
+
+    Don’t combine multiple end-advertisers or their Facebook connections (i.e. Pages) in the same ad account.
+
+    Free or trial versions of an ads API app:
+
+    a. Don’t allow more than 50 ad creations a day per customer.
+
+    b. Require phone or email verification on new accounts.
+
+    c. Don’t allow affiliate networks to use your technology.
+
+    Pricing transparency:
+
+    a. Only charge fees for the use of your tools and managed services with a fixed fee or variable percentage of ad spend.
+
+    b. Proactively disclose to end advertisers the amount that you spent on Facebook advertising, using Facebook metrics (e.g., CPC, CPM rate), separate from your fees.
+
+    c. Disclose the amount you charged as fees on Facebook advertising.
+
+    d. We may disclose fees or the amount you spent on Facebook advertising to your clients if they request it.
+
+    e. We may require documentation from you to ensure your compliance with these terms.
+
+    f. Don’t sell ads on a fixed CPM or CPC basis when using the Facebook advertising auction.
+
+    Data Collection and Use:
+
+    a. If you have Standard Ads API access and our prior written permission, you can place 1x1 pixel view tags on advertisements.
+
+    b. Ensure that any data that is collected is anonymous.
+
+    c. Only use data from an end-advertiser’s campaign to optimize or measure the performance of that end-advertiser’s Facebook campaign.
+
+    d. Don’t use data to retarget on or off of Facebook.
+
+    e. Don’t mix data obtained from us with advertising campaigns on different platforms.
+
+    f. Don’t use data to build or augment any user profiles.
+
+    g. Don’t use piggybacking or redirects.
+
+    h. Don’t let people other than those acting on an end-advertiser’s behalf access Facebook ad statistics.
+
+    Implement all bidding types including Optimized CPM.
+
+    Custom Audiences:
+
+    a. If you use custom audiences, comply with the Custom Audience Terms.
+
+    b. Only use a client’s data when creating custom audiences on their behalf.
+
+    c. Only use a Facebook User ID to create custom audiences when the person whose User ID is being used has logged into the client’s app and has given the necessary consent.
+
+    d. Don’t sell or transfer custom audiences.
+
+    Revoke an end-advertiser’s access to your app if we request it.
+
+15. Definitions
+
+    “App” means any technical integration we have assigned an app identification number.
+
+    "Account information" consists of: name, email, gender, birthday, current city and profile picture URL.
+
+    “User data” means any data, including a person's content or information that you or third parties obtain from or through Facebook.
+
+    "SDK" means any object code library, sample source code, or documentation you receive from us that helps you create apps for use with the Facebook Platform.

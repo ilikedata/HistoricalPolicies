@@ -1,0 +1,62 @@
+https://wallet.google.com/legaldocument?family=0.privacynotice&hl=en
+
+Privacy Notice
+Google Wallet Privacy Notice
+
+Last modified May 7, 2014
+
+The Google Privacy Policy describes how we treat personal information when you use Google's products and services. “Google Wallet” is a product offered to Google Account holders. Your use of Google Wallet is therefore subject to the Google Privacy Policy. In addition, the following notice describes our privacy practices that are specific to Google Wallet.
+
+Google Wallet refers to Google payment services that are provided by both Google Inc. and its wholly owned subsidiaries. For US users, that subsidiary is Google Payment Corporation (“GPC”), and for users in the European Economic Area (EEA), it is Google Payment Limited (“GPL”) (based in the United Kingdom). For countries outside of the United States and the EEA, please consult the Google Wallet Terms of Service made available to you within the service to learn more about the subsidiary offering the service.
+
+Your use of Google Wallet is governed by the Google Wallet Terms of Service. Please consult the Terms of Service for detailed information about the specific services of Google Wallet. Capitalized terms not defined in this Google Wallet Privacy Notice shall have the meaning ascribed to them in the Terms of Service.
+Information we collect
+
+In addition to the information listed in the Google Privacy Policy we may also collect the following:
+
+    Registration information – When you sign up for Google Wallet, you are creating a Wallet account that is associated with your Google Account. Depending on the services of Google Wallet you use, in addition to the information listed in the Google Privacy Policy, you may be asked to provide the following information: Credit or debit card number and card expiration date, bank account number and expiration date, address, date of birth, social security number or taxpayer identification number (or some other government-issued identification number), and for sellers or businesses specifically, your business category and certain information about your sales or transaction volume.  In some cases, we may also ask you to send us additional information or to answer additional questions to help verify your information. Finally, if you register a Carrier Billing Account, we will ask you to provide us with certain information about your mobile telephone account.
+
+    Information obtained from third parties – We may obtain information about you from third parties, including third party verification services, information arising from Google Wallet transactions at merchant locations, information regarding your use of payment methods issued by third parties that are linked to the Google Wallet service, information regarding access to balances held in your Google Wallet account, and information from a Carrier in connection with Carrier Billing.
+
+    Also, for sellers, we may obtain information about you and your business from a credit bureau or a business information service.
+
+    Transaction information – When you use Google Wallet to conduct a transaction, we may collect information about the transaction, including: Date, time and amount of the transaction, the merchant’s location, a description provided by the seller of the goods or services purchased, any photo you choose to associate with the transaction, the names and email addresses of the seller and buyer (or sender and recipient), the type of payment method used, your description of the reason for the transaction, and the offer associated with the transaction, if any.
+
+How we use the information we collect
+
+In addition to the uses listed in the Google Privacy Policy, we use the information you provide us, as well as information about you from third parties, in order to provide you with Google Wallet services, and to protect you from fraud, phishing or other misconduct. Such information may also be used to assist third parties in the provision of products or services that you request from them.
+
+Your registration information is stored in association with your Google Account and your registration of a payment method will be stored on Google’s servers. In addition, certain data elements may also be stored on your mobile device.
+Information we share
+Third party sharing
+
+We will only share your personal information with other companies or individuals outside of Google in the following circumstances:
+
+    As permitted under the Google Privacy Policy.
+    As necessary to process your transaction and maintain your account.
+    To complete your registration for a service provided by a third party.
+
+For example, when you make a purchase or transaction using Google Wallet, we make certain personal information about you available to the company or individual you purchase from or transact with.  This includes sharing your personal information with the developer from whom you purchased when you use Google Wallet to make a purchase on Google Play.
+
+Any information you provide directly to a third party merchant, website or application is not covered by this privacy notice.  We are not responsible for the privacy or security practices of merchants or other third parties with whom you choose to share your personal information directly.  We encourage you to review the privacy policies of any third party to whom you choose to share your personal information directly.
+Affiliate sharing
+
+The information that we collect, including information obtained from third parties, is shared with our affiliates, meaning other companies owned and controlled by Google Inc.  Our affiliates can be financial and nonfinancial entities.
+
+We provide you with the right to opt out of certain sharing between GPC and its affiliates. Specifically, you may choose to opt out of:
+
+    Sharing between GPC and its affiliates of information about your creditworthiness for their everyday business purposes; and/or,
+    Our affiliates marketing their products or services to you based on your personal information that we collect and share with them.  This information includes your account history with us.
+
+If you choose to opt out, your choice will be effective until you tell us to change your choice.
+
+If you don't want us to share personal information about your creditworthiness between GPC and its affiliates or if you do not want our affiliates to use your personal information collected by us and shared with them to market to you, please indicate your preference by logging into your account, going to the Wallet privacy settings page, and updating your preferences.
+
+We will not share your personal information with anyone outside of GPC or with our affiliates except as described in this privacy notice. As explained above, Google Wallet is a product offered to Google Account holders. Data you provide to Google Inc. for the purpose of signing up for a Google Account is not affected by the opt-out provisions in this notice.
+Information security
+
+For more information about our security practices, please see the main Google Privacy Policy.
+
+The security of your Google Wallet account depends on you keeping your account password confidential. If you share your account information with a third party, he or she will have access to your account and your personal information.
+
+It is your responsibility to control access to your mobile device and the Google Wallet application on your device, including keeping your PIN confidential and not sharing it with anyone. It is also your responsibility to alert Google or the relevant partner if you believe that the security of the information in the Google Wallet application has been compromised.
